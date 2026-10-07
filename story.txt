@@ -1,0 +1,32 @@
+begin:
+You wake up against a tree in the middle of a field of grass, wearing a sundress
+You wonder where you are
+you stand up and look arround
+happy:
+you are pleased by how you feel
+you like your dress and tail
+(and wonder what you look like)
+overview-titleshow:
+from above there is the tree, the character and the cottage:
+an overview of the area
+you see a cottage in the distance
+walking-towards:
+"Maybe I should go there"
+stand in front of door:
+...
+knocks-on-door:
+"knock knock"
+entrance:
+you see a lady smiling and welcoming you
+"you look so cute Olivia"
+"I was waiting to meet you"
+"I made tea"
+"I will explain the situation"
+etc..
+>goto sitting-area
+sitting area:
+"dialog stuff"
+[choices: where am I, how did I get here, who are you, why do I have a tail and you don't]
+"dialog stuff"
+
+

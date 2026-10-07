@@ -1,0 +1,48 @@
+[
+    {
+        "id":0,
+        "name":"Apple",
+        "description":"Looks like regular big apple",
+        "img":"apple"
+    },
+    {
+        "id":1,
+        "name":"Plushy",
+        "description":"So soft and cute. It resembles me a bit I think",
+        "img":"plushy"
+    },
+    {
+        "id":2,
+        "name":"sundress",
+        "description":"It feels nice to wear",
+        "img":"sundress"
+    },
+    {
+        "id":3,
+        "name":"tea",
+        "description":"The teacup is warm and the steam from it feels nice",
+        "img":"tea",
+
+        "action":"sipping",
+        "sips":"0",
+        "sipamount":"4"
+    },
+    {
+        "id":4,
+        "name":"sunhat with a bow",
+        "description":"I really like the bow, and my ears also fit through. Helpfull against the sunrays",
+        "img":"sunhat"
+    },
+    {
+        "id":5,
+        "name":"pink dress",
+        "description":"I like pink",
+        "img":"pinkDress"
+    },
+    {
+        "id":6,
+        "name":"bedroom key",
+        "description":"So I can open and close my bedroom",
+        "img":"bedroomKey"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "id":0,
+        "name":"Olivia",
+        "nameColor":"pink",
+        "defaultImg":"Olivia"
+    },
+    {
+        "id":1,
+        "name":"Merrinda",
+        "nameColor":"yellow",
+        "defaultImg":"Goddess"
+    },
+    {
+        "id":2,
+        "name":"Elleanor",
+        "nameColor":"purple",
+        "defaultImg":"Weirdo"
+    }
+]
